@@ -1,5 +1,6 @@
 ---
 title: Bloch equations for proton exchange reactions in an aqueous solution
+layout: page
 ---
 
 # Bloch equations for proton exchange reactions in an aqueous solution

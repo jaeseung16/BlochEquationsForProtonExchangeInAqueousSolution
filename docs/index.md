@@ -14,4 +14,4 @@ The MATLAB codes to produce Figures 1, 2, and 4 in Ref. [1].
 2. In Eq. (38), HPO<sub>4</sub><sup>2-</sup> should not be boldfaced.
 3. In Section 9, there are two citations of Figure 5D. They should be Figure 5F.
 
-\\( a^2 \\)
+\\[ a^2 \\]

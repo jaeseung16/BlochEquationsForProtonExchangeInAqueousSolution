@@ -1,8 +1,3 @@
----
-title: Bloch equations for proton exchange reactions in an aqueous solution
-layout: page
----
-
 # Bloch equations for proton exchange reactions in an aqueous solution
 
 The MATLAB codes to produce Figures 1, 2, and 4 in Ref. [1].

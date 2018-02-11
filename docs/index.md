@@ -14,19 +14,4 @@ The MATLAB codes to produce Figures 1, 2, and 4 in Ref. [1].
 2. In Eq. (38), HPO<sub>4</sub><sup>2-</sup> should not be boldfaced.
 3. In Section 9, there are two citations of Figure 5D. They should be Figure 5F.
 
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
+$$ a^2 $$
